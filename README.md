@@ -9,6 +9,7 @@ The goal is to classify Boson Higgs events to signal (real event) and noise give
 
 The full data can be found at Kaggle link (only sample files appear at the repository).
 
+
 **The project include:**
 * project.py:
   * Feature Selection (T-Test, FDR test)
